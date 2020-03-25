@@ -1,0 +1,1 @@
+The blog frame of hexo.
